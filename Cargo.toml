@@ -1,0 +1,13 @@
+[package]
+name = "tcpcount"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5.32"
+crossterm = "0.28.1"
+dns-lookup = "2.0.4"
+netstat2 = "0.11.1"
+rand = "0.9.0"
+ratatui = "0.29.0"
+sysinfo = "0.33.1"
